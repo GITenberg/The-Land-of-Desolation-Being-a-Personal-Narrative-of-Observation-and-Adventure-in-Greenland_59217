@@ -1,11 +1,16 @@
 _repo: The-Land-of-Desolation-Being-a-Personal-Narrative-of-Observation-and-Adventure-in-Greenland_59217
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59217-h/images/cover.jpg
 creator:
   author:
     agent_name: Hayes, Isaac Israel
     gutenberg_agent_id: '50346'
     url: http://www.gutenberg.org/2009/agents/50346
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59217#The-Land-of-Desolation-Being-a-Personal-Narrative-of-Observation-and-Adventure-in-Greenland
 gutenberg_issued: '2019-04-06'
 gutenberg_type: Text
 identifiers:
